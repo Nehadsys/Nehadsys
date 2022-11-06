@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nehadsys
+- 👋 Hi, I’m @Nehad Shakoor
 - 👀 I’m interested in Blockchain.
 - 🌱 I’m currently doing BS in Computer Science
 - 💞️ I’m looking to collaborative works on Blockchain and DeFi apps, aswell as different tech ventures.
